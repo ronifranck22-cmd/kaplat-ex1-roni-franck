@@ -1,2 +1,3 @@
 Create a new file called b.txt. 
 Fill it with some content (irrelevant)
+Select file b.txt and add some data
