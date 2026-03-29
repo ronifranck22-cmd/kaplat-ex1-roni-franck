@@ -1,3 +1,4 @@
 Create a file called a.txt. 
 Fill it with some content (irrelevant)
 New change - Step G
+Edit file a.txt and fill it with some content (irrelevant). 
